@@ -1,0 +1,16 @@
+Request: GET /home
+Response: 200 OK
+Request: POST /submit
+Response: 404 Bad response
+Request: GET /home
+Response: 200 OK
+Request: POST /submit
+Response: 404 Bad response
+Request: GET /home
+Response: 200 OK
+Request: POST /submit
+Response: 404 Bad response
+Request: GET /home
+Response: 200 OK
+Request: POST /submit
+Response: 404 Bad response
